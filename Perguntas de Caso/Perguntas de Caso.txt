@@ -1,0 +1,23 @@
+1° Qual o gasto total por cada funcionário considerando o salário e os benefícios?
+
+2° Temos quantos funcionários do sexo masculino e feminino na nossa base? E qual o gasto salarial dos mesmo?
+
+3° Temos quantos funcionários em cada cidade? E quais são essas cidades?
+
+4° Temos quantos Diretores, Gerentes, Coordenadores, Analistas e Estagiários na nossa base? E qual o gasto salarial completo por cada cargo?
+
+5° Quanto que a empresa gasta de Salario, Vale Refeição(VR) e Vale Transporte(VT)?
+
+6° Quantos funcionários tem mais de 100 horas extras de trabalho acumulados na nossa base? E quantos desses são do sexo masculino(M) e feminino(F)?
+
+7°  Agora, crie um indicador que mostre o nível performático do funcionário<br>
+     Para isso, siga o modelo abaixo:<br>
+     9-10 -> Excelente
+     8-8.9 -> Muito Bom
+     7-7.9 -> Bom
+     5-6.9 -> Regular
+     <5 -> Ruim
+
+8° Existe algum funcionário com classificação RUIM?
+
+9° Qual a  quantidade de funcionários pela Classificação por Desempenho? 
