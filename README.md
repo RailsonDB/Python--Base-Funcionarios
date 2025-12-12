@@ -13,8 +13,19 @@ A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível 
 
 
 ## 🛠️ Tecnologias e bibliotecas utilizadas no projeto
- - Python 3.14.1
+ - Python 3.11.9
  - Pandas
  - Matplotlib
  - Jupyter Notebook
 
+## 📁 Estrutura do Repositório
+
+```
+📦 Projeto-Analise-Funcionarios
+ ┣ 📂 Base de Dados
+ ┃ ┗ 📄 BaseFuncionarios.xlsx
+ ┣ 📂 Notebook
+ ┃ ┗ 📄 analise_funcionarios.ipynb
+ ┣ 📄 README.md
+ ┗ 📄 imagens (opcional)
+```
