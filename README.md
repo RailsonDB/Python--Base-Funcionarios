@@ -20,15 +20,21 @@ A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível 
 
 
 ## Principais Análises Realizadas
-Este projeto responde a várias perguntas de negócios, como:
- - 
- -
- -
- -
- -
- -
- -
- -
- -
+ Este projeto responde a várias perguntas de negócios, como:<br>
+ - Qual o gasto total por cada funcionário considerando o salário e os benefícios?
+
+ - Temos quantos funcionários do sexo masculino e feminino na nossa base? E qual o gasto salarial dos mesmo?
+ 
+ - Temos quantos funcionários em cada cidade? E quais são essas cidades?
+ 
+ -Temos quantos Diretores, Gerentes, Coordenadores, Analistas e Estagiários na nossa base? E qual o gasto salarial completo por cada cargo?
+ 
+ - Quanto que a empresa gasta de Salario, Vale Refeição(VR) e Vale Transporte(VT)?
+ 
+ - Quantos funcionários tem mais de 100 horas extras de trabalho acumulados na nossa base? E quantos desses são do sexo masculino(M) e feminino(F)?
+   
+ - Existe algum funcionário com classificação RUIM?
+   
+ - Qual a  quantidade de funcionários pela Classificação por Desempenho? 
 
 
