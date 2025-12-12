@@ -1,7 +1,7 @@
 # 📊 Análise de Dados - Base de Funcionários<br>
-### Este projeto apresenta uma análise completa de uma base fictícia de funcionários com **Python, Pandas e Matplotlib**.<br>
-### O objetivo é explorar informações relacionadas a salários, benefícios, desempenho, distribuição demográfica e outros<br>
-### indicadores relevantes para RH.
+#### Este projeto apresenta uma análise completa de uma base fictícia de funcionários com **Python, Pandas e Matplotlib**.<br>
+#### O objetivo é explorar informações relacionadas a salários, benefícios, desempenho, distribuição demográfica e outros<br>
+#### indicadores relevantes para RH.
 
 ## 🗂️ Sobre a Base de Dados
-### A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível na pasta “Base de Dados” deste repositório.
+#### A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível na pasta “Base de Dados” deste repositório.
