@@ -9,7 +9,7 @@ indicadores relevantes para RH.
 
 ## 🗂️ Sobre a Base de Dados
 A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível na pasta “Base de Dados” deste repositório.<br>
-**!!!!** Todos os dados são fictícios. Não representam informações reais.<br>
+**!!!! Todos os dados são fictícios. Não representam informações reais.**<br>
 
 
 ## 🛠️ Tecnologias e bibliotecas utilizadas no projeto
