@@ -18,14 +18,4 @@ A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível 
  - Matplotlib
  - Jupyter Notebook
 
-## 📁 Estrutura do Repositório
 
-```
-📦 Projeto-Analise-Funcionarios
- ┣ 📂 Base de Dados
- ┃ ┗ 📄 BaseFuncionarios.xlsx
- ┣ 📂 Notebook
- ┃ ┗ 📄 analise_funcionarios.ipynb
- ┣ 📄 README.md
- ┗ 📄 imagens (opcional)
-```
