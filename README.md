@@ -19,3 +19,16 @@ A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível 
  - Jupyter Notebook
 
 
+## Principais Análises Realizadas
+Este projeto responde a várias perguntas de negócios, como:
+ - 
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+
