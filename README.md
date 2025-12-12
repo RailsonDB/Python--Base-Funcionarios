@@ -27,7 +27,7 @@ A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível 
  
  - Temos quantos funcionários em cada cidade? E quais são essas cidades?
  
- -Temos quantos Diretores, Gerentes, Coordenadores, Analistas e Estagiários na nossa base? E qual o gasto salarial completo por cada cargo?
+ - Temos quantos Diretores, Gerentes, Coordenadores, Analistas e Estagiários na nossa base? E qual o gasto salarial completo por cada cargo?
  
  - Quanto que a empresa gasta de Salario, Vale Refeição(VR) e Vale Transporte(VT)?
  
