@@ -1,6 +1,6 @@
 # 📊 Análise de Dados - Base de Funcionários<br>
 #### Este projeto apresenta uma análise completa de uma base fictícia de funcionários com **Python, Pandas e Matplotlib**.
-#### O objetivo é explorar informações relacionadas a salários, benefícios, desempenho, distribuição demográfica e outros<br>
+#### O objetivo é explorar informações relacionadas a salários, benefícios, desempenho, distribuição demográfica e outros
 #### indicadores relevantes para RH.
 
 ## 🗂️ Sobre a Base de Dados
