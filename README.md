@@ -1,7 +1,7 @@
 # 📊 Análise de Dados - Base de Funcionários<br>
 
 
-## Resumo do Projeto
+## 📌 Resumo do Projeto
 Este projeto apresenta uma análise completa de uma base fictícia de funcionários com **Python, Pandas e Matplotlib**.<br>
 O objetivo é explorar informações relacionadas a salários, benefícios, desempenho, distribuição demográfica e outros<br>
 indicadores relevantes para RH.<br>
@@ -69,13 +69,16 @@ Avaliação do desempenho dos funcionários
   Análises descritivas para suporte à tomada de decisões<br>
 
 
- 
-
-
-
-
-## Principais Conceitos Tabalhados
-
+## 📈 Principais Resultados obtidos
+ Gasto total com salários e benefícios:<br>
+ **R$1.831.600,00**<br>
+ Maior concentração de funcionários:<br>
+ **São Paulo**<br>
+ Maior gasto salarial por cargo:<br>
+ **Coordenador**<br>
+ A maior parte dos funcionários possui desempenho **"Muito Bom"**<br>
+ Não existem funcionários classificados como **"Ruim"**<br>
+ O custo com Vale Refeição(VR) é maior que o Vale Transporte(VT)<br>
  
 
 
