@@ -36,17 +36,17 @@ Principais colunas:
 
 
 ## 🔍 Etapas do Projeto
- ⿡ Importação e Inspeção dos Dados
+ 1️⃣ Importação e Inspeção dos Dados
 leitura do arquivo Excel<br>
 Visualiazação as primeiras linhas e últimas linhas<br>
 Verificação de colunas, tipos de dados e valores nulos
 
- ⿢ Análise Exploratória (EDA)
+ 2️⃣ Análise Exploratória (EDA)
 Estatísticas descritivas com **describe()**<br>
 Análise da distribuição de dados<br>
 Verificação da qualidade da base (ausência de valores nulos)
 
- ⿣ Transformação de Dados
+ 3️⃣ Transformação de Dados
 Criação da coluna **Gasto Salarial Completo**<br>
 Salário + Benefícios (VR e VT)<br>
 Criação da coluna Classificação por Desempenho:<br>
@@ -56,7 +56,7 @@ Bom<br>
 Regular<br>
 Ruim
 
- ⿤ Análise de Negócios
+ 4️⃣ Análise de Negócios
 Gasto Salarial da empresa com salário e benefícios<br>
 Distribuição de funcionários por:<br>
 Gênero<br>
@@ -64,7 +64,7 @@ Cidade<br>
 Cargo<br>
 Avaliação do desempenho dos funcionários
 
- ⿥ Visualização de Dados
+ 5️⃣ Visualização de Dados
   Gráfico de pizza para distribuição de desempenho<br>
   Análises descritivas para suporte à tomada de decisões<br>
 
