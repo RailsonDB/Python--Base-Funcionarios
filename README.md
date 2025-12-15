@@ -19,7 +19,7 @@ A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível 
  - Jupyter Notebook
 
 
-## Principais Análises Realizadas
+## 📌 Principais Análises Realizadas
  Este projeto responde a várias perguntas de negócios, como:<br>
  - Qual o gasto total por cada funcionário considerando o salário e os benefícios?
 
@@ -36,5 +36,9 @@ A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível 
  - Existe algum funcionário com classificação RUIM?
    
  - Qual a  quantidade de funcionários pela Classificação por Desempenho? 
+
+
+## Visualizações Grpaficas
+ 
 
 
