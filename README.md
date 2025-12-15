@@ -5,7 +5,7 @@
 Este projeto apresenta uma análise completa de uma base fictícia de funcionários com **Python, Pandas e Matplotlib**.<br>
 O objetivo é explorar informações relacionadas a salários, benefícios, desempenho, distribuição demográfica e outros<br>
 indicadores relevantes para RH.<br>
-** ⚠️ Todos os dados são fictícios. Não representam informações reais.**<br>
+⚠️ **Todos os dados são fictícios. Não representam informações reais.**<br>
 
 ## 🗂️ Sobre a Base de Dados
  Formato: Excel (.xlsx)<br>
