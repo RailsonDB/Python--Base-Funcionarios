@@ -64,7 +64,7 @@ Cidade<br>
 Cargo<br>
 Avaliação do desempenho dos funcionários
 
- 5️⃣ Visualização de Dados **:** <br>
+ 5️⃣ Visualização de Dados**:** <br>
   Gráfico de pizza para distribuição de desempenho<br>
   Análises descritivas para suporte à tomada de decisões<br>
 
