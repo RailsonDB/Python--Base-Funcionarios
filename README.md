@@ -5,30 +5,27 @@
 Este projeto apresenta uma análise completa de uma base fictícia de funcionários com **Python, Pandas e Matplotlib**.<br>
 O objetivo é explorar informações relacionadas a salários, benefícios, desempenho, distribuição demográfica e outros<br>
 indicadores relevantes para RH.
-
-
-## 🗂️ Sobre a Base de Dados
-A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível na pasta “Base de Dados” deste repositório.<br>
 **!!!! Todos os dados são fictícios. Não representam informações reais.**<br>
 
+## 🗂️ Sobre a Base de Dados
+ Formato: Excel (.xlsx)<br>
+ Local: Pasta Base de Dados desse repositório<br>
+ Quantidade de registros: 234 funcionários<br>
+ Quantidade de colunas: 13 variáveis originais (+ 2 colunas calculadas)<br>
 
-## Perguntas Respondidas
- 
- - Qual o gasto total por cada funcionário considerando o salário e os benefícios?
-
- - Temos quantos funcionários do sexo masculino e feminino na nossa base? E qual o gasto salarial dos mesmo?
- 
- - Temos quantos funcionários em cada cidade? E quais são essas cidades?
- 
- - Temos quantos Diretores, Gerentes, Coordenadores, Analistas e Estagiários na nossa base? E qual o gasto salarial completo por cada cargo?
- 
- - Quanto que a empresa gasta de Salario, Vale Refeição(VR) e Vale Transporte(VT)?
- 
- - Quantos funcionários tem mais de 100 horas extras de trabalho acumulados na nossa base? E quantos desses são do sexo masculino(M) e feminino(F)?
-   
- - Existe algum funcionário com classificação RUIM?
-   
- - Qual a  quantidade de funcionários pela Classificação por Desempenho? 
+Principais colunas:
+ ID RH<br>
+ Nome Completo<br>
+ Gênero<br>
+ Data de Nascimento<br>
+ Cidade<br>
+ Data de Contratação<br>
+ Salário<br>
+ Benefícios (VR e VT)<br>
+ Cargo<br>
+ Área<br>
+ Horas Extras<br>
+ Avaliação do Funcionário
 
 
 ## 🛠️ Tecnologias e bibliotecas utilizadas no projeto
@@ -36,6 +33,45 @@ A base utilizada é um arquivo Excel chamado BaseFuncionarios.xlsx, disponível 
  - Pandas
  - Matplotlib
  - Jupyter Notebook
+
+
+## 🔍 Etapas do Projeto
+ ⿡ Importação e Inspeção dos Dados
+leitura do arquivo Excel<br>
+Visualiazação as primeiras linhas e últimas linhas<br>
+Verificação de colunas, tipos de dados e valores nulos
+
+ ⿢ Análise Exploratória (EDA)
+Estatísticas descritivas com **describe()**<br>
+Análise da distribuição de dados<br>
+Verificação da qualidade da base (ausência de valores nulos)
+
+ ⿣ Transformação de Dados
+Criação da coluna **Gasto Salarial Completo**<br>
+Salário + Benefícios (VR e VT)<br>
+Criação da coluna Classificação por Desempenho:<br>
+Excelente<br>
+Muito Bom<br>
+Bom<br>
+Regular<br>
+Ruim
+
+ ⿤ Análise de Negócios
+Gasto Salarial da empresa com salário e benefícios<br>
+Distribuição de funcionários por:<br>
+Gênero<br>
+Cidade<br>
+Cargo<br>
+Avaliação do desempenho dos funcionários
+
+ ⿥ Visualização de Dados
+  Gráfico de pizza para distribuição de desempenho<br>
+  Análises descritivas para suporte à tomada de decisões<br>
+
+
+ 
+
+
 
 
 ## Principais Conceitos Tabalhados
