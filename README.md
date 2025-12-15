@@ -78,7 +78,7 @@ Avaliação do desempenho dos funcionários
  **Coordenador**<br>
  A maior parte dos funcionários possui desempenho **"Muito Bom"**<br>
  Não existem funcionários classificados como **"Ruim"**<br>
- O custo com Vale Refeição(VR) é maior que o Vale Transporte(VT)<br>
+ O custo com **Vale Refeição(VR)** é maior que o **Vale Transporte(VT)**<br>
  
 
 
