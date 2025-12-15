@@ -4,8 +4,8 @@
 ## Resumo do Projeto
 Este projeto apresenta uma análise completa de uma base fictícia de funcionários com **Python, Pandas e Matplotlib**.<br>
 O objetivo é explorar informações relacionadas a salários, benefícios, desempenho, distribuição demográfica e outros<br>
-indicadores relevantes para RH.
-**!!!! Todos os dados são fictícios. Não representam informações reais.**<br>
+indicadores relevantes para RH.<br>
+** ⚠️ Todos os dados são fictícios. Não representam informações reais.**<br>
 
 ## 🗂️ Sobre a Base de Dados
  Formato: Excel (.xlsx)<br>
@@ -13,19 +13,19 @@ indicadores relevantes para RH.
  Quantidade de registros: 234 funcionários<br>
  Quantidade de colunas: 13 variáveis originais (+ 2 colunas calculadas)<br>
 
-Principais colunas:
- ID RH<br>
- Nome Completo<br>
- Gênero<br>
- Data de Nascimento<br>
- Cidade<br>
- Data de Contratação<br>
- Salário<br>
- Benefícios (VR e VT)<br>
- Cargo<br>
- Área<br>
- Horas Extras<br>
- Avaliação do Funcionário
+Principais colunas:<br>
+  ID RH<br>
+  Nome Completo<br>
+  Gênero<br>
+  Data de Nascimento<br>
+  Cidade<br>
+  Data de Contratação<br>
+  Salário<br>
+  Benefícios (VR e VT)<br>
+  Cargo<br>
+  Área<br>
+  Horas Extras<br>
+  Avaliação do Funcionário
 
 
 ## 🛠️ Tecnologias e bibliotecas utilizadas no projeto
