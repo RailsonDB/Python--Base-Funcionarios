@@ -8,7 +8,7 @@ indicadores relevantes para RH.<br>
 ⚠️ **Todos os dados são fictícios. Não representam informações reais.**<br>
 
 ## 🗂️ Sobre a Base de Dados
- Formato: Excel (.xlsx)<br>
+ Formato: *Excel (.xlsx)<br>*
  Local: Pasta Base de Dados desse repositório<br>
  Quantidade de registros: 234 funcionários<br>
  Quantidade de colunas: 13 variáveis originais (+ 2 colunas calculadas)<br>
