@@ -14,17 +14,17 @@ indicadores relevantes para RH.<br>
  Quantidade de colunas: 13 variáveis originais (+ 2 colunas calculadas)<br>
 
 Principais colunas:<br>
-ID RH<br>
-Nome Completo<br>
-Gênero<br>
-Data de Nascimento<br>
-Cidade<br>
-Data de Contratação<br>
-Salário<br>
-Benefícios (VR e VT)<br>
-Cargo<br>
-Área<br>
-Horas Extras<br>
+ - ID RH<br>
+ - Nome Completo<br>
+ - Gênero<br>
+ - Data de Nascimento<br>
+ - Cidade<br>
+ - Data de Contratação<br>
+ - Salário<br>
+ - Benefícios (VR e VT)<br>
+ - Cargo<br>
+ - Área<br>
+ - Horas Extras<br>
  - Avaliação do Funcionário
 
 
